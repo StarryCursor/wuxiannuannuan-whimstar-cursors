@@ -54,12 +54,6 @@
 - closedhand.cur     拖拽（Windows 标准方案不含此槽位）
 - 每个 .cur 内嵌 5 种分辨率 (32/48/64/96/128)，自适应 100%~300% 显示缩放。
 
-【卸载】
-1. Win+R 输入 main.cpl，"方案"下拉框选"Windows 默认"
-2. 用管理员身份打开 cmd，运行:
-   rmdir /S /Q "%SystemRoot%\Cursors\NuanNuan-01"
-   reg delete "HKCU\Control Panel\Cursors\Schemes" /v "无限暖暖-02" /f
-
 
 ## 致谢 / Credits
 - 角色设计基于游戏《无限暖暖》（Infinity Nikki，© Papergames / Infold Games）
