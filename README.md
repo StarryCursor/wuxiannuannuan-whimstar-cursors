@@ -15,12 +15,12 @@
 ### MAC：
 1. 下载并安装 [Mousecape](https://github.com/alexzielenski/Mousecape/releases)
 2. 打开 Mousecape，菜单栏 `Mousecape` → `Install Helper Tool`
-3. 下载本仓库的 文件
+3. 下载本仓库的 [无限暖暖-02-v5.cape](https://github.com/StarryCursor/wuxiannuannuan-cursors-whimstar-/blob/main/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96-02-v5.cape) 文件
 4. 双击 .cape 文件导入到 Mousecape
 5. 右键导入的 cape → `Apply`
    
 ### Windows:
-1. 下载 zip 解压
+1. 下载本仓库的zip [无限暖暖-02-Windows-v5.zip](https://github.com/StarryCursor/wuxiannuannuan-cursors-whimstar-/blob/main/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96-02-Windows-v5.zip) 解压
 2. 右键单击 install.inf (Windows 11 用户：先点"显示更多选项"或按 Shift+F10)
 3. 在菜单里点"安装"
 4. 弹出 UAC 权限请求时，点"是"
