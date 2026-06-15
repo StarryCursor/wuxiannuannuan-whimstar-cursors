@@ -18,6 +18,7 @@
 3. 下载本仓库的 [无限暖暖-02-v5.cape](https://github.com/StarryCursor/wuxiannuannuan-cursors-whimstar-/blob/main/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96-02-v5.cape) 文件
 4. 双击 .cape 文件导入到 Mousecape
 5. 右键导入的 cape → `Apply`
+ps: 这套鼠标细节比较多，颜色比较浅，建议将指针大小调大一号，使用感更好哦
    
 ### Windows:
 1. 下载本仓库的zip [无限暖暖-02-Windows-v5.zip](https://github.com/StarryCursor/wuxiannuannuan-cursors-whimstar-/blob/main/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96-02-Windows-v5.zip) 解压
@@ -28,6 +29,7 @@
 6. 切换到"指针"标签
 7. 在"方案"下拉框里选"无限暖暖-02"
 8. 点"确定"，所有 10 个光标立即生效
+ps: 这套鼠标细节比较多，颜色比较浅，建议将指针大小调大一号，使用感更好哦
 
 【常见问题】
 - 右键菜单里找不到"安装"？
