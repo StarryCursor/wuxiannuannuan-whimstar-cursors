@@ -3,7 +3,7 @@
 
 
 ## 预览 / Preview
-<img width="1168" height="1225" alt="preview" src="https://github.com/user-attachments/assets/d4032d50-769b-433d-a933-58c74d24c349" />
+<img width="1168" height="1225" alt="preview" src="https://github.com/user-attachments/assets/64b581f0-2f29-4ac0-9e02-2ae898a01a48" />
 
 
 ## 项目内容 / Project Overview
